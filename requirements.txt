@@ -1,0 +1,14 @@
+# requirements.txt
+chromadb
+pandas
+reportlab
+seaborn
+matplotlib
+gradio
+openai
+sqlalchemy
+tiktoken
+uuid
+python-dotenv
+IPython
+streamlit
