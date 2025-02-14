@@ -114,6 +114,7 @@ requirements.txt              # Lists external Python libraries and dependencies
    ```bash
    export OPENAI_API_KEY="your-api-key"
    ```
+   Or store them in your .env file
 4. Run the Streamlit app:
    ```bash
    streamlit run src/frontend/app.py
@@ -145,13 +146,6 @@ requirements.txt              # Lists external Python libraries and dependencies
 - "Analyze sales trends over the past year."
 - "Identify the top 5 products by sales."
 - "Compare sales performance between regions."
-
----
-
-## Acknowledgments
-- OpenAI for providing the GPT models.
-- Streamlit for the easy-to-use frontend framework.
-- Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
 ---
 
