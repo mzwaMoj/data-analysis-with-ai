@@ -5,6 +5,11 @@ This project is an AI-powered data analyst application that allows users to uplo
 
 The application is built with a modular architecture, separating the backend logic (agents for routing, code generation, and insights) from the frontend interface (Streamlit for the user interface).
 
+
+https://github.com/user-attachments/assets/54c5af67-e676-4b9f-acff-13dd5921af66
+
+
+
 ---
 
 ## Directory Structure
